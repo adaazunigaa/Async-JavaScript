@@ -16,6 +16,7 @@
 -Callback
 -Promises
     A "Proimise" is an object representing the eventual completion of failure of an asynchronous operation 
+    -Apromise is a returned object to which you attach callbacks, instead of passing callbacks into a dunction
 -Async keyword
 -Await keyword
 -Handling Errors in  Aync
