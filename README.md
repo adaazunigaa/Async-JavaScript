@@ -15,6 +15,7 @@
         *Once the browser finishes those task, they return and are pushed onto the stack as a callback
 -Callback
 -Promises
+    A "Proimise" is an object representing the eventual completion of failure of an asynchronous operation 
 -Async keyword
 -Await keyword
 -Handling Errors in  Aync
