@@ -18,5 +18,13 @@
     A "Proimise" is an object representing the eventual completion of failure of an asynchronous operation 
     -Apromise is a returned object to which you attach callbacks, instead of passing callbacks into a dunction
 -Async keyword
+    *-Async functions always return a promise 
+     -If the function returns a calue, the promise will be resolved with that value
+     -If the function throws an exception, the promise will be rejected 
+
+    *ASYNC FUNCTIONS:
+        Newer and cleaner syntax for working with async code 
+        Syntax "makeup" for promises
+    
 -Await keyword
 -Handling Errors in  Aync
