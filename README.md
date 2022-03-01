@@ -27,4 +27,6 @@
         Syntax "makeup" for promises
     
 -Await keyword
+    *Mostly inside of functions declared with async 
+    *Await will pause the execution of the function, waiting for a promise to be resolved.
 -Handling Errors in  Aync
